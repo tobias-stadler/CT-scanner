@@ -1,0 +1,10 @@
+pip install Pillow
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+pip install rawpy
+pip install scipy
+https://www.astra-toolbox.com/files/astra-1.9.0.dev11/astra-1.9.0.dev11-python37-win-x64.zip
+# missing plugins directory can be found here https://github.com/astra-toolbox/astra-toolbox/tree/master/python/astra/plugins
+# Python 3.7 64bit!! needed
+# Open Firewall Ports (TCP): 25588, 25599 
