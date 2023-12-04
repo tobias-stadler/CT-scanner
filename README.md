@@ -13,6 +13,7 @@
 ![](images/proj-compressed.gif)
 ## After reconstruction
 ![](images/recon-compressed.gif)
+
 The software outputs the 3D volume as a series of tiff-images, which can e.g. be viewed using 3D Slicer.
 
 # GUI
